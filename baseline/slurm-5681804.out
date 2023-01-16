@@ -1,0 +1,2566 @@
+I0105 16:43:58.112024 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:44:00.549884 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:44:02.513429 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:44:04.474425 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:44:06.440608 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:44:08.402164 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:44:10.354784 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:44:12.319119 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:44:14.272571 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:44:16.232164 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:44:18.184540 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:44:20.170917 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:44:22.137686 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:44:24.091509 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:44:26.044581 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:44:27.999295 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:44:29.945244 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:44:31.889185 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:44:33.824795 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:44:35.740274 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:44:37.677957 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:44:39.589948 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:44:41.507842 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:44:43.421902 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:44:45.347961 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:44:47.265025 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:44:49.180571 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:44:51.099134 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:44:53.012552 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:44:54.925949 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:44:56.839667 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:44:58.749083 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:44:59.880870 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:45:01.767842 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:45:03.676762 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:45:05.601143 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:45:07.519998 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:45:09.443467 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:45:11.362803 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:45:13.290558 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:45:15.204280 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:45:17.119213 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:45:19.040477 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:45:20.960808 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:45:22.883900 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:45:24.795839 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:45:26.714920 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:45:28.625465 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:45:30.542622 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:45:32.458538 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:45:34.375937 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:45:36.285857 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:45:38.209821 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:45:40.143192 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:45:42.108609 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:45:44.031914 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:45:45.975125 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:45:47.910797 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:45:49.859234 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:45:51.808640 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:45:53.759381 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:45:55.715121 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:45:57.662684 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:45:59.612988 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:46:00.729099 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:46:02.655433 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:46:04.612245 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:46:06.561488 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:46:08.512017 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:46:10.463029 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:46:12.415686 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:46:14.364623 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:46:16.332927 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:46:18.289590 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:46:20.254342 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:46:22.223095 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:46:24.193797 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:46:26.157577 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:46:28.118690 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:46:30.083590 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:46:32.051309 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:46:34.049174 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:46:36.036566 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:46:38.027078 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:46:40.018197 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:46:42.014224 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:46:43.993443 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:46:45.971324 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:46:47.938723 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:46:49.899245 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:46:51.865977 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:46:53.832992 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:46:55.801769 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:46:57.768044 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:46:59.732261 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:47:01.696609 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:47:02.810080 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:47:04.748348 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:47:06.714452 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:47:08.683611 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:47:10.645126 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:47:12.599960 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:47:14.571171 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:47:16.531140 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:47:18.510743 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:47:20.480546 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:47:22.461609 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:47:24.430711 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:47:26.409248 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:47:28.372541 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:47:30.328121 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:47:32.287354 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:47:34.241204 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:47:36.206610 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:47:38.160487 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:47:40.125535 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:47:42.083960 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:47:44.046770 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:47:46.005959 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:47:47.960784 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:47:49.919334 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:47:51.867547 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:47:53.828425 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:47:55.785463 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:47:57.748704 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:47:59.699199 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:48:01.656596 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:48:03.612672 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:48:04.722363 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:48:06.649579 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:48:08.604535 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:48:10.563282 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:48:12.518173 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:48:14.471899 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:48:16.427556 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:48:18.376167 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:48:20.335996 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:48:22.285260 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:48:24.275557 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:48:26.228250 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:48:28.182231 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:48:30.141171 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:48:32.101397 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:48:34.067619 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:48:36.033811 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:48:38.004876 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:48:39.970639 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:48:41.936824 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:48:43.896416 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:48:45.856118 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:48:47.817553 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:48:49.772234 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:48:51.726063 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:48:53.671877 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:48:55.623747 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:48:57.576860 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:48:59.537850 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:49:01.490650 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:49:03.452406 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:49:05.408057 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:49:06.521366 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:49:08.446758 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:49:10.391426 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:49:12.345467 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:49:14.296843 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:49:16.264412 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:49:18.223849 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:49:20.169790 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:49:22.124071 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:49:24.072804 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:49:26.030776 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:49:27.979136 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:49:29.948608 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:49:31.901906 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:49:33.854325 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:49:35.814791 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:49:37.766005 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:49:39.723757 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:49:41.673507 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:49:43.636200 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:49:45.586717 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:49:47.546221 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:49:49.504192 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:49:51.470012 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:49:53.442541 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:49:55.410305 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:49:57.372873 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:49:59.333734 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:50:01.296685 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:50:03.251841 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:50:05.210362 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:50:07.162851 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:50:08.277217 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:50:10.203830 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:50:12.175236 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:50:14.136457 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:50:16.097109 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:50:18.056988 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:50:20.012512 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:50:21.960612 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:50:23.915942 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:50:25.874568 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:50:27.830743 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:50:29.780231 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:50:31.736842 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:50:33.683199 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:50:35.640663 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:50:37.594876 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:50:39.549910 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:50:41.509318 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:50:43.459688 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:50:45.418818 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:50:47.371846 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:50:49.331026 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:50:51.280301 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:50:53.242648 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:50:55.195296 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:50:57.159180 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:50:59.114667 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:51:01.067255 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:51:03.027397 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:51:04.983906 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:51:06.944752 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:51:08.915117 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:51:10.034227 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:51:11.977874 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:51:13.938743 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:51:15.906759 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:51:17.890565 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:51:19.846449 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:51:21.799750 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:51:23.751351 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:51:25.703872 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:51:27.652362 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:51:29.607450 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:51:31.561898 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:51:33.523125 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:51:35.484196 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:51:37.450933 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:51:39.407998 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:51:41.370764 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:51:43.332149 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:51:45.293247 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:51:47.252550 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:51:49.203511 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:51:51.166294 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:51:53.119141 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:51:55.084252 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:51:57.040236 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:51:59.001595 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:52:00.964656 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:52:02.924742 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:52:04.890205 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:52:06.839171 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:52:08.832192 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:52:10.787179 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:52:11.902159 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:52:13.830575 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:52:15.786761 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:52:17.748879 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:52:19.709913 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:52:21.674073 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:52:23.640958 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:52:25.608229 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:52:27.575057 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:52:29.529614 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:52:31.492471 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:52:33.443844 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:52:35.402261 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:52:37.348396 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:52:39.302047 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:52:41.258647 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:52:43.210345 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:52:45.163279 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:52:47.113682 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:52:49.073096 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:52:51.024276 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:52:52.985639 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:52:54.937474 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:52:56.892993 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:52:58.847269 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:53:00.797670 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:53:02.754713 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:53:04.703190 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:53:06.660831 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:53:08.616528 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:53:10.574829 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:53:12.524216 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:53:13.636741 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:53:15.563473 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:53:17.514289 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:53:19.472558 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:53:21.425206 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:53:23.382040 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:53:25.338288 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:53:27.291128 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:53:29.252252 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:53:31.201972 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:53:33.159965 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:53:35.116652 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:53:37.075087 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:53:39.027946 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:53:40.996638 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:53:42.963318 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:53:44.934020 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:53:46.897160 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:53:48.857799 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:53:50.818634 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:53:52.770759 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:53:54.728645 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:53:56.678629 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:53:58.635518 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:54:00.591089 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:54:02.542480 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:54:04.506131 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:54:06.455456 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:54:08.415870 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:54:10.368448 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:54:12.324816 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:54:14.306557 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:54:15.430101 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:54:17.354832 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:54:19.315079 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:54:21.268781 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:54:23.222728 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:54:25.171225 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:54:27.123858 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:54:29.068012 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:54:31.020571 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:54:32.965914 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:54:34.921338 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:54:36.868698 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:54:38.821801 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:54:40.777545 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:54:42.730498 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:54:44.686748 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:54:46.639642 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:54:48.601340 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:54:50.563193 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:54:52.524693 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:54:54.474816 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:54:56.431853 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:54:58.387839 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:55:00.346214 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:55:02.314037 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:55:04.267599 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:55:06.222266 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:55:08.175267 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:55:10.131768 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:55:12.081268 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:55:14.034448 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:55:15.987226 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:55:17.098073 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:55:19.023705 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:55:20.971599 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:55:22.925641 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:55:24.880209 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:55:26.836715 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:55:28.788514 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:55:30.737530 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:55:32.693332 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:55:34.640454 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:55:36.592252 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:55:38.542064 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:55:40.500128 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:55:42.455034 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:55:44.408264 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:55:46.360845 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:55:48.307829 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:55:50.259795 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:55:52.206228 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:55:54.163664 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:55:56.112895 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:55:58.068313 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:56:00.021461 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:56:01.977882 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:56:03.933955 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:56:05.884239 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:56:07.839273 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:56:09.784142 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:56:11.740664 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:56:13.687205 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:56:15.639151 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:56:17.588438 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:56:18.699294 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:56:20.623938 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:56:22.570948 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:56:24.527516 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:56:26.487551 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:56:28.441244 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:56:30.398527 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:56:32.345335 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:56:34.300347 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:56:36.256953 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:56:38.214133 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:56:40.169488 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:56:42.129466 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:56:44.090701 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:56:46.042655 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:56:47.997916 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:56:49.947047 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:56:51.899279 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:56:53.844150 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:56:55.798867 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:56:57.748597 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:56:59.709662 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:57:01.658284 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:57:03.621128 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:57:05.570887 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:57:07.525250 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:57:09.481699 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:57:11.436589 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:57:13.390352 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:57:15.334760 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:57:17.288950 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:57:19.237393 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:57:20.348887 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:57:22.270459 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:57:24.212603 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:57:26.165729 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:57:28.110791 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:57:30.066345 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:57:32.011415 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:57:33.968517 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:57:35.920355 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:57:37.871969 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:57:39.827182 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:57:41.776089 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:57:43.736440 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:57:45.682420 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:57:47.638063 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:57:49.585846 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:57:51.540846 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:57:53.490744 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:57:55.444008 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:57:57.396645 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:57:59.350143 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:58:01.300346 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:58:03.246130 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:58:05.200358 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:58:07.147461 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:58:09.099223 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:58:11.045249 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:58:12.996669 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:58:14.945701 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:58:16.896009 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:58:18.842500 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:58:20.787024 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:58:21.899285 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:58:23.821510 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:58:25.766716 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:58:27.712556 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:58:29.656476 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:58:31.608594 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:58:33.551204 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:58:35.511863 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:58:37.466478 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:58:39.424279 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:58:41.377517 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:58:43.334474 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:58:45.290716 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:58:47.244686 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:58:49.207291 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:58:51.158743 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:58:53.115981 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:58:55.065675 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:58:57.021449 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 16:58:58.970076 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 16:59:00.926252 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 16:59:02.874431 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 16:59:04.832181 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 16:59:06.783592 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 16:59:08.741198 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 16:59:10.691468 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 16:59:12.651739 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 16:59:14.605816 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 16:59:16.570299 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 16:59:18.538947 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 16:59:20.486292 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 16:59:22.436319 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 16:59:23.549997 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 16:59:25.464634 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 16:59:27.406424 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 16:59:29.347838 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 16:59:31.298005 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 16:59:33.241065 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 16:59:35.181581 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 16:59:37.124096 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 16:59:39.064720 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 16:59:41.001880 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 16:59:42.945087 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 16:59:44.885744 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 16:59:46.829368 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 16:59:48.769289 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 16:59:50.708926 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 16:59:52.641497 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 16:59:54.581756 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 16:59:56.511233 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 16:59:58.451260 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:00:00.396806 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:00:02.339185 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:00:04.277887 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:00:06.248750 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:00:08.202319 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:00:10.134579 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:00:12.036971 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:00:13.957478 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:00:15.887967 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:00:17.783093 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:00:19.701238 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:00:21.595714 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:00:23.495970 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:00:24.580485 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:00:26.485678 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:00:28.534897 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:00:30.473910 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:00:32.473583 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:00:34.357160 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:00:36.227286 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:00:38.106511 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:00:39.988026 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:00:41.867475 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:00:43.748682 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:00:45.618663 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:00:47.487270 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:00:49.365244 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:00:51.237631 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:00:53.117629 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:00:54.994228 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:00:56.867084 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:00:58.743521 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:01:00.615349 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:01:02.483144 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:01:04.357782 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:01:06.226171 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:01:08.094320 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:01:09.967920 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:01:11.830742 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:01:13.699347 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:01:15.572905 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:01:17.436130 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:01:19.305371 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:01:21.177179 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:01:23.074484 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:01:24.164661 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:01:26.006644 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:01:27.874322 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:01:29.746725 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:01:31.613323 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:01:33.483792 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:01:35.364754 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:01:37.396896 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:01:39.380986 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:01:41.327513 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:01:43.237469 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:01:45.139846 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:01:47.017457 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:01:48.948999 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:01:50.836790 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:01:52.709774 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:01:54.586517 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:01:56.459188 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:01:58.336500 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:02:00.211945 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:02:02.168009 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:02:04.037431 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:02:05.897915 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:02:07.761908 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:02:09.638938 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:02:11.504398 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:02:13.369778 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:02:15.235968 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:02:17.105459 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:02:18.963028 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:02:20.825787 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:02:22.691541 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:02:23.776077 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:02:25.615293 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:02:27.476428 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:02:29.338847 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:02:31.206524 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:02:33.063279 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:02:34.926702 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:02:36.791549 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:02:38.647977 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:02:40.514123 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:02:42.381641 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:02:44.238136 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:02:46.101390 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:02:47.965183 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:02:49.830441 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:02:51.701802 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:02:53.746706 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:02:55.740798 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:02:57.670720 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:02:59.571924 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:03:01.458571 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:03:03.336238 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:03:05.214642 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:03:07.089677 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:03:08.997322 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:03:10.883647 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:03:12.763523 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:03:14.633259 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:03:16.514191 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:03:18.395565 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:03:20.272773 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:03:22.149571 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:03:23.244728 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:03:25.100445 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:03:27.080369 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:03:28.971039 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:03:30.853373 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:03:32.722427 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:03:34.594916 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:03:36.465638 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:03:38.341882 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:03:40.204524 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:03:42.071438 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:03:43.934191 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:03:45.802659 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:03:47.662937 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:03:49.533463 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:03:51.393622 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:03:53.266250 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:03:55.131877 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:03:57.001807 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:03:58.864437 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:04:00.732630 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:04:02.604561 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:04:04.469800 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:04:06.340341 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:04:08.208767 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:04:10.079786 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:04:11.944343 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:04:13.817582 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:04:15.738014 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:04:17.714231 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:04:19.658223 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:04:21.559430 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:04:22.652310 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:04:24.507531 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:04:26.373424 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:04:28.244213 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:04:30.114980 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:04:31.993209 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:04:33.869685 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:04:35.849717 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:04:37.722296 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:04:39.599226 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:04:41.468696 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:04:43.350471 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:04:45.216433 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:04:47.091222 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:04:48.971787 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:04:50.843067 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:04:52.793449 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:04:54.658382 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:04:56.529472 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:04:58.394725 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:05:00.269852 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:05:02.138620 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:05:04.008306 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:05:05.873193 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:05:07.744068 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:05:09.604265 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:05:11.466075 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:05:13.336884 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:05:15.199371 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:05:17.071358 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:05:18.935541 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:05:20.804575 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:05:21.895939 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:05:23.739068 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:05:25.602039 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:05:27.472543 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:05:29.336235 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:05:31.209706 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:05:33.082024 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:05:34.951066 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:05:36.814052 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:05:38.679534 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:05:40.539238 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:05:42.520069 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:05:44.487210 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:05:46.437759 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:05:48.325099 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:05:50.205273 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:05:52.072622 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:05:53.943222 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:05:55.810943 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:05:57.682041 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:05:59.550819 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:06:01.422684 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:06:03.389646 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:06:05.267118 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:06:07.138422 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:06:09.007044 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:06:10.883810 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:06:12.752420 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:06:14.629251 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:06:16.497692 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:06:18.371523 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:06:20.346006 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:06:21.438395 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:06:23.280812 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:06:25.154110 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:06:27.016570 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:06:28.884670 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:06:30.750908 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:06:32.615310 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:06:34.497092 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:06:36.395660 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:06:38.290403 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:06:40.183529 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:06:42.059756 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:06:43.924301 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:06:45.805054 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:06:47.676747 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:06:49.631748 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:06:51.549874 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:06:53.435693 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:06:55.310533 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:06:57.189867 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:06:59.078821 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:07:00.982417 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:07:02.882144 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:07:04.756025 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:07:06.653581 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:07:08.594106 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:07:10.600391 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:07:12.611108 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:07:14.526050 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:07:16.429073 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:07:18.313016 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:07:20.199933 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:07:21.294367 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:07:23.182778 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:07:25.078959 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:07:26.964728 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:07:28.937718 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:07:30.823484 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:07:32.711990 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:07:34.616094 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:07:36.545626 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:07:38.468844 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:07:40.397910 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:07:42.320332 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:07:44.244414 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:07:46.271913 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:07:48.193870 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:07:50.104948 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:07:52.017862 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:07:53.923770 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:07:55.835968 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:07:57.741577 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:07:59.652314 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:08:01.557417 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:08:03.469115 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:08:05.374700 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:08:07.289509 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:08:09.196845 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:08:11.148870 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:08:13.052631 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:08:14.961721 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:08:16.866370 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:08:18.775984 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:08:20.679131 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:08:21.788163 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:08:23.668617 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:08:25.571744 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:08:27.479115 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:08:29.378295 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:08:31.291563 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:08:33.191151 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:08:35.116009 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:08:37.101930 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:08:39.068229 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:08:40.981187 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:08:42.878474 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:08:44.762537 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:08:46.643035 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:08:48.521118 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:08:50.404711 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:08:52.276089 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:08:54.158929 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:08:56.130942 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:08:58.028106 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:08:59.900250 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:09:01.779025 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:09:03.656392 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:09:05.533172 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:09:07.414099 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:09:09.295027 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:09:11.171138 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:09:13.163644 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:09:15.032848 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:09:16.907886 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:09:18.777081 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:09:20.650619 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:09:21.737257 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:09:23.583798 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:09:25.451163 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:09:27.323419 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:09:29.191108 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:09:31.066998 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:09:32.931839 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:09:34.804940 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:09:36.676242 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:09:38.549196 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:09:40.410323 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:09:42.280491 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:09:44.150193 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:09:46.019830 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:09:47.886312 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:09:49.753339 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:09:51.621464 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:09:53.521045 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:09:55.391311 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:09:57.255140 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:09:59.128973 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:10:00.995414 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:10:03.060197 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:10:05.049346 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:10:06.997364 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:10:08.900256 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:10:10.794915 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:10:12.674946 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:10:14.548995 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:10:16.419485 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:10:18.292448 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:10:20.163205 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:10:21.251436 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:10:23.173785 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:10:25.046741 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:10:26.927809 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:10:28.805623 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:10:30.692157 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:10:32.571322 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:10:34.452490 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:10:36.325292 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:10:38.202774 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:10:40.210852 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:10:42.097569 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:10:43.959977 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:10:45.826736 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:10:47.692884 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:10:49.586583 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:10:51.454559 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:10:53.312862 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:10:55.180129 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:10:57.044275 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:10:58.910860 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:11:00.769203 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:11:02.636103 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:11:04.499545 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:11:06.367646 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:11:08.229240 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:11:10.103433 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:11:11.965762 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:11:13.840287 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:11:15.704256 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:11:17.572653 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:11:19.436870 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:11:20.524605 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:11:22.364556 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:11:24.234240 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:11:26.100643 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:11:27.973770 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:11:29.991316 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:11:31.983136 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:11:33.931425 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:11:35.839941 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:11:37.731317 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:11:39.616755 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:11:41.488421 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:11:43.365394 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:11:45.249042 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:11:47.134102 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:11:49.135911 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:11:51.026545 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:11:52.907435 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:11:54.794568 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:11:56.678027 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:11:58.670582 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:12:00.625984 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:12:02.588671 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:12:04.536157 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:12:06.522446 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:12:08.460397 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:12:10.408692 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:12:12.348955 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:12:14.294847 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:12:16.231432 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:12:18.175984 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:12:20.115541 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:12:21.248193 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:12:23.171996 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:12:25.107175 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:12:27.054825 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:12:28.994922 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:12:30.943660 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:12:32.887825 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:12:34.827323 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:12:36.765321 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:12:38.706701 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:12:40.645309 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:12:42.578956 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:12:44.523671 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:12:46.456347 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:12:48.400054 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:12:50.336557 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:12:52.282085 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:12:54.218605 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:12:56.224764 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:12:58.206104 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:13:00.160397 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:13:02.057224 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:13:03.946715 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:13:05.816636 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:13:07.697728 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:13:09.574275 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:13:11.453182 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:13:13.324222 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:13:15.261976 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:13:17.145521 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:13:19.021731 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:13:20.890893 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:13:21.982453 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:13:23.838310 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:13:25.709594 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:13:27.582751 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:13:29.459227 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:13:31.354162 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:13:33.226819 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:13:35.091662 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:13:36.962580 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:13:38.828705 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:13:40.697053 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:13:42.557889 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:13:44.419635 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:13:46.275169 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:13:48.141552 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:13:50.002098 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:13:51.873566 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:13:53.737733 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:13:55.602075 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:13:57.468460 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:13:59.330490 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:14:01.201162 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:14:03.065825 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:14:04.936422 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:14:06.810944 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:14:08.679811 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:14:10.545617 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:14:12.415001 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:14:14.276805 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:14:16.158977 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:14:18.017133 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:14:19.885520 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:14:21.005739 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:14:22.957749 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:14:24.917296 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:14:26.813059 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:14:28.696132 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:14:30.572744 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:14:32.441126 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:14:34.315839 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:14:36.186837 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:14:38.060686 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:14:39.956143 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:14:41.853614 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:14:43.721500 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:14:45.602928 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:14:47.469871 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:14:49.340686 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:14:51.209797 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:14:53.080443 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:14:54.949765 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:14:56.832219 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:14:58.800803 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:15:00.662402 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:15:02.532388 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:15:04.400799 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:15:06.260575 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:15:08.127794 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:15:09.986204 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:15:11.855508 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:15:13.724682 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:15:15.587030 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:15:17.452422 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:15:19.311902 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:15:20.397052 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:15:22.238317 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:15:24.103771 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:15:25.969321 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:15:27.829927 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:15:29.684875 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:15:31.549144 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:15:33.403904 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:15:35.270259 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:15:37.130883 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:15:38.989157 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:15:40.850217 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:15:42.707096 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:15:44.570884 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:15:46.427438 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:15:48.397251 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:15:50.369313 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:15:52.319143 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:15:54.213459 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:15:56.101229 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:15:57.971716 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:15:59.852031 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:16:01.723636 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:16:03.593668 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:16:05.601562 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:16:07.497906 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:16:09.368107 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:16:11.247185 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:16:13.121616 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:16:14.997108 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:16:16.863259 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:16:18.740954 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:16:19.834066 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:16:21.748406 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:16:23.621143 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:16:25.489325 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:16:27.359153 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:16:29.229525 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:16:31.096263 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:16:32.966604 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:16:34.830577 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:16:36.704245 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:16:38.571889 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:16:40.442462 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:16:42.307473 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:16:44.175333 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:16:46.041882 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:16:47.918747 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:16:49.784191 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:16:51.656530 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:16:53.520109 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:16:55.384087 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:16:57.250046 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:16:59.149275 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:17:01.011523 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:17:02.870988 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:17:04.738355 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:17:06.598560 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:17:08.464689 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:17:10.322603 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:17:12.251168 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:17:14.220229 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:17:16.176164 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:17:18.074987 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:17:19.169555 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:17:21.027796 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:17:22.915534 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:17:24.787178 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:17:26.773072 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:17:28.660941 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:17:30.543660 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:17:32.422705 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:17:34.298053 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:17:36.175931 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:17:38.058040 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:17:39.929904 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:17:41.824215 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:17:43.769354 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:17:45.649811 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:17:47.512959 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:17:49.379567 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:17:51.241475 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:17:53.110595 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:17:55.002116 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:17:56.871635 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:17:58.736046 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:18:00.601820 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:18:02.469773 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:18:04.332854 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:18:06.197456 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:18:08.058920 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:18:09.934445 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:18:11.796875 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:18:13.669179 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:18:15.531898 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:18:17.400934 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:18:18.486970 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:18:20.327433 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:18:22.192308 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:18:24.063152 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:18:25.929703 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:18:27.797612 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:18:29.663570 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:18:31.534208 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:18:33.482303 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:18:35.461916 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:18:37.414519 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:18:39.325166 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:18:41.216272 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:18:43.114446 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:18:45.002464 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:18:47.006850 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:18:48.899298 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:18:50.808263 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:18:52.677464 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:18:54.553010 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:18:56.420288 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:18:58.296609 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:19:00.167954 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:19:02.101526 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:19:03.964976 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:19:05.831852 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:19:07.696295 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:19:09.564089 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:19:11.424823 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:19:13.289196 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:19:15.156834 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:19:17.017565 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:19:18.106556 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:19:19.950773 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:19:21.808701 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:19:23.676034 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:19:25.530349 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:19:27.394808 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:19:29.253210 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:19:31.123468 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:19:32.987602 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:19:34.847541 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:19:36.715039 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:19:38.574583 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:19:40.440865 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:19:42.302119 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:19:44.160722 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:19:46.068604 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:19:47.945059 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:19:49.786288 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:19:51.626266 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:19:53.651069 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:19:55.628726 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:19:57.663529 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:19:59.559705 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:20:01.598163 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:20:03.550344 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:20:05.581144 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:20:07.797836 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:20:09.820553 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:20:11.843260 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:20:13.859862 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:20:15.884824 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:20:17.908018 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:20:19.080637 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:20:21.118285 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:20:23.197730 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:20:25.209789 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:20:27.208179 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:20:29.198478 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:20:31.235400 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:20:33.247865 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:20:35.242934 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:20:37.252545 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:20:39.249312 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:20:41.259511 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:20:43.273435 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:20:45.286205 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:20:47.296268 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:20:49.299005 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:20:51.296911 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:20:53.297882 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:20:55.297837 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:20:57.301313 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:20:59.300627 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:21:01.301737 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:21:03.304417 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:21:05.307490 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:21:07.298788 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:21:09.290340 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:21:11.284818 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:21:13.322725 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:21:15.456413 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:21:17.554066 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:21:19.579834 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:21:21.593402 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:21:22.748085 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:21:24.702889 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:21:26.627749 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:21:28.541701 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:21:30.527448 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:21:32.509511 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:21:34.471259 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:21:36.442438 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:21:38.405990 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:21:40.369633 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:21:42.331657 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:21:44.297711 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:21:46.276136 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:21:48.273718 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:21:50.229520 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:21:52.179112 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:21:54.150460 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:21:56.115468 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:21:58.081974 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:22:00.044831 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:22:02.006325 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:22:03.957099 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:22:05.912052 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:22:07.865619 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:22:09.820261 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:22:11.770020 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:22:13.722028 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:22:15.670927 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:22:17.618048 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:22:19.565520 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:22:21.506717 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:22:23.450065 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:22:24.569623 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:22:26.483241 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:22:28.426672 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:22:30.370565 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:22:32.316561 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:22:34.257813 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:22:36.333284 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:22:38.350273 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:22:40.345633 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:22:42.278791 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:22:44.196761 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:22:46.106724 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:22:47.984936 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:22:49.860797 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:22:51.737968 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:22:53.613064 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:22:55.484948 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:22:57.355493 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:22:59.338315 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:23:01.213701 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:23:03.085094 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:23:04.956463 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:23:06.824898 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:23:08.697812 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:23:10.568163 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:23:12.437958 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:23:14.310895 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:23:16.182754 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:23:18.056858 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:23:19.921041 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:23:21.793066 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:23:23.671360 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+I0105 17:23:24.762078 47232130463936 simple_baseline.py:73] Generating for batch ID 00000 of size 0032
+I0105 17:23:26.607346 47232130463936 simple_baseline.py:73] Generating for batch ID 00001 of size 0032
+I0105 17:23:28.476654 47232130463936 simple_baseline.py:73] Generating for batch ID 00002 of size 0032
+I0105 17:23:30.343851 47232130463936 simple_baseline.py:73] Generating for batch ID 00003 of size 0032
+I0105 17:23:32.292070 47232130463936 simple_baseline.py:73] Generating for batch ID 00004 of size 0032
+I0105 17:23:34.279295 47232130463936 simple_baseline.py:73] Generating for batch ID 00005 of size 0032
+I0105 17:23:36.254217 47232130463936 simple_baseline.py:73] Generating for batch ID 00006 of size 0032
+I0105 17:23:38.230081 47232130463936 simple_baseline.py:73] Generating for batch ID 00007 of size 0032
+I0105 17:23:40.198692 47232130463936 simple_baseline.py:73] Generating for batch ID 00008 of size 0032
+I0105 17:23:42.168340 47232130463936 simple_baseline.py:73] Generating for batch ID 00009 of size 0032
+I0105 17:23:44.130493 47232130463936 simple_baseline.py:73] Generating for batch ID 00010 of size 0032
+I0105 17:23:46.097191 47232130463936 simple_baseline.py:73] Generating for batch ID 00011 of size 0032
+I0105 17:23:48.055557 47232130463936 simple_baseline.py:73] Generating for batch ID 00012 of size 0032
+I0105 17:23:50.017674 47232130463936 simple_baseline.py:73] Generating for batch ID 00013 of size 0032
+I0105 17:23:51.975710 47232130463936 simple_baseline.py:73] Generating for batch ID 00014 of size 0032
+I0105 17:23:54.020417 47232130463936 simple_baseline.py:73] Generating for batch ID 00015 of size 0032
+I0105 17:23:56.037034 47232130463936 simple_baseline.py:73] Generating for batch ID 00016 of size 0032
+I0105 17:23:58.020704 47232130463936 simple_baseline.py:73] Generating for batch ID 00017 of size 0032
+I0105 17:23:59.952489 47232130463936 simple_baseline.py:73] Generating for batch ID 00018 of size 0032
+I0105 17:24:01.866788 47232130463936 simple_baseline.py:73] Generating for batch ID 00019 of size 0032
+I0105 17:24:03.766449 47232130463936 simple_baseline.py:73] Generating for batch ID 00020 of size 0032
+I0105 17:24:05.685717 47232130463936 simple_baseline.py:73] Generating for batch ID 00021 of size 0032
+I0105 17:24:07.565023 47232130463936 simple_baseline.py:73] Generating for batch ID 00022 of size 0032
+I0105 17:24:09.464847 47232130463936 simple_baseline.py:73] Generating for batch ID 00023 of size 0032
+I0105 17:24:11.334775 47232130463936 simple_baseline.py:73] Generating for batch ID 00024 of size 0032
+I0105 17:24:13.210510 47232130463936 simple_baseline.py:73] Generating for batch ID 00025 of size 0032
+I0105 17:24:15.085111 47232130463936 simple_baseline.py:73] Generating for batch ID 00026 of size 0032
+I0105 17:24:17.055130 47232130463936 simple_baseline.py:73] Generating for batch ID 00027 of size 0032
+I0105 17:24:18.927313 47232130463936 simple_baseline.py:73] Generating for batch ID 00028 of size 0032
+I0105 17:24:20.792700 47232130463936 simple_baseline.py:73] Generating for batch ID 00029 of size 0032
+I0105 17:24:22.655907 47232130463936 simple_baseline.py:73] Generating for batch ID 00030 of size 0032
+I0105 17:24:24.520908 47232130463936 simple_baseline.py:73] Generating for batch ID 00031 of size 0008
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([3168])
+torch.Size([792])
+(1000, 1, 1)
+Writing out guess with 1
+(1000, 10, 1)
+Writing out guess with 10
+(1000, 40, 1)
+Writing out guess with 40
