@@ -163,7 +163,7 @@ We selected 100 total errors because this corresponds to a ~35% recall for exist
 attacks, leaving significant room for improvement.
 
 
-## How To Submit
+<!--## How To Submit
 
 You will submit to us three artifacts by emailing lm-extraction-competition@googlegroups.com:
 
@@ -179,7 +179,7 @@ We will re-run your code to verify that it meets the 24 hour runtime requirement
 Please document the steps necessary to run your code.
 While we make no hard constraints on how to do this, either a conda environment, a pip requirements.txt, or a docker setup would be appreciated.
 We will try to fix minimal bugs we encounter, and may even email teams if we have small challenges in reproducing results, but please test your code on a clean machine.
-(You can assume CUDA drivers, whichever version you depend on, have been installed.)
+(You can assume CUDA drivers, whichever version you depend on, have been installed.) -->
 
 
 ## Example Submission
@@ -219,7 +219,7 @@ From here you can then run [example_submission/score_submission.py](example_subm
 python3 ../example_submission/score_submission.py --submission guess1.csv --answer ../datasets/train_suffix.npy
 ```
 
-## Cheating
+<!--## Cheating
 
 Please don't!
 There is no prize for winning this contest. You don't get anything out of cheating.
@@ -261,7 +261,7 @@ If you're not sure if something is against the rules, please raise an issue to a
 
 * January 23th: Test prefixes released. Teams will then have five days to run their code on the test prefixes---because at most 24 hours of compute are allowed for the final submission, this should be more than enough.
 
-* January 27th AOE: Test round closes. Teams submit test set suffixes, a short 2-5 page paper describing the techniques being used, and (in exceptional circumstances) a .patch file modifying the code to run on the test set.
+* January 27th AOE: Test round closes. Teams submit test set suffixes, a short 2-5 page paper describing the techniques being used, and (in exceptional circumstances) a .patch file modifying the code to run on the test set. -->
 
 
 ## Additional Details
